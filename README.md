@@ -15,7 +15,11 @@ unzip sentry-node-cli-linux.zip
 #Delete Old Screen and Create New One (You can see your old screen with "screen -ls" command)
 ```
 screen -X -S <youroldscreen> quit
+```
+```
 screen -S xai
+```
+```
 ./sentry-node-cli-linux
 ```
 # Add Operator
